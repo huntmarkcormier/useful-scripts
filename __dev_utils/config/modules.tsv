@@ -1,0 +1,8 @@
+# Соответствие подмодулей в dbo-modules/ и их рабочих веток.
+# Формат: <module><TAB><branch>. Строки с # и пустые игнорируются.
+platf	3.0.2986-support-retail-nvk-3.3.70
+platf-plugins	3.0.2714-support-retail-nvk-3.3.70
+dbo	4.0.2634-support-retail-nvk-3.3.70
+cashoff	3.3.37-support-nvk-3.3.70
+retail	3.3.37-support-nvk-3.3.70
+novikom	develop
